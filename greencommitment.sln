@@ -1,0 +1,29 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "gcCommon", "greencommitment\gcCommon.csproj", "{5BAD0B2F-ACCB-4094-9451-811E62F8DB55}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "gcServer", "gcServer\gcServer.csproj", "{F74BE42F-C114-435B-84F5-B3CCE2B2C0C8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "gcClient", "gcClient\gcClient.csproj", "{B3DEE535-8EBF-496A-A18E-328A3479F560}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5BAD0B2F-ACCB-4094-9451-811E62F8DB55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BAD0B2F-ACCB-4094-9451-811E62F8DB55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BAD0B2F-ACCB-4094-9451-811E62F8DB55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BAD0B2F-ACCB-4094-9451-811E62F8DB55}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F74BE42F-C114-435B-84F5-B3CCE2B2C0C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F74BE42F-C114-435B-84F5-B3CCE2B2C0C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F74BE42F-C114-435B-84F5-B3CCE2B2C0C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F74BE42F-C114-435B-84F5-B3CCE2B2C0C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3DEE535-8EBF-496A-A18E-328A3479F560}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3DEE535-8EBF-496A-A18E-328A3479F560}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3DEE535-8EBF-496A-A18E-328A3479F560}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3DEE535-8EBF-496A-A18E-328A3479F560}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

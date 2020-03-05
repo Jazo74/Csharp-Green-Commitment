@@ -1,0 +1,10 @@
+/Users/JarmyZ/Projects/greencommitment/greencommitment/bin/Debug/netcoreapp3.1/com.codecool.greencommitment.common.deps.json
+/Users/JarmyZ/Projects/greencommitment/greencommitment/bin/Debug/netcoreapp3.1/com.codecool.greencommitment.common.runtimeconfig.json
+/Users/JarmyZ/Projects/greencommitment/greencommitment/bin/Debug/netcoreapp3.1/com.codecool.greencommitment.common.runtimeconfig.dev.json
+/Users/JarmyZ/Projects/greencommitment/greencommitment/bin/Debug/netcoreapp3.1/com.codecool.greencommitment.common.dll
+/Users/JarmyZ/Projects/greencommitment/greencommitment/bin/Debug/netcoreapp3.1/com.codecool.greencommitment.common.pdb
+/Users/JarmyZ/Projects/greencommitment/greencommitment/obj/Debug/netcoreapp3.1/gcCommon.csprojAssemblyReference.cache
+/Users/JarmyZ/Projects/greencommitment/greencommitment/obj/Debug/netcoreapp3.1/gcCommon.AssemblyInfoInputs.cache
+/Users/JarmyZ/Projects/greencommitment/greencommitment/obj/Debug/netcoreapp3.1/gcCommon.AssemblyInfo.cs
+/Users/JarmyZ/Projects/greencommitment/greencommitment/obj/Debug/netcoreapp3.1/com.codecool.greencommitment.common.dll
+/Users/JarmyZ/Projects/greencommitment/greencommitment/obj/Debug/netcoreapp3.1/com.codecool.greencommitment.common.pdb

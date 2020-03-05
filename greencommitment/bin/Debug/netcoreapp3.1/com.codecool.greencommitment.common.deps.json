@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "com.codecool.greencommitment.common/1.0.0": {
+        "runtime": {
+          "com.codecool.greencommitment.common.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "com.codecool.greencommitment.common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
